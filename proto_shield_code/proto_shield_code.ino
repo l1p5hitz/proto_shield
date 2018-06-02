@@ -1,4 +1,4 @@
-//Simple sketch to try out each component on the proto shield board
+//Simple sketch to try out each component on the proto shield board written for arduino.
 //To run a sub-routine that exercises particular component
 //press the number then enter
 //pressing any other key then enter will stop that sub routine
